@@ -1,0 +1,21 @@
+program {
+    int x, y;
+    float e;
+    bool b;
+    y=4;
+    x=y+1;  
+                                       
+    if(x==y)
+        y=6;
+        x--;
+    else
+       y=20;
+    fi;
+    while(x<=9){
+       x=10;
+    };
+    e=y/x;
+    read x;
+    write y+2;
+    write e;
+}

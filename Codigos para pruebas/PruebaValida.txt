@@ -1,0 +1,12 @@
+program {
+    int x, y;
+    x=0;                             
+    y=4;                              
+    do
+        if(x<y)            
+            y=y+1;           
+         fi       
+      until (y>=0);        
+    }
+    
+    
