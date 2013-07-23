@@ -6,7 +6,7 @@ package Vista;
 
 /**
  *
- * @author Isaac
+ * @author Tovar
  */
 import java.awt.*;
 import java.beans.*;
